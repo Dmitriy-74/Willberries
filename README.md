@@ -1,1 +1,1 @@
-# Willberries - учебный проект в Glo Academy
+# Willberries - учебный проект в Glo Academy.
